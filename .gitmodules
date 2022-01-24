@@ -1,0 +1,6 @@
+[submodule "components/miniz_idf"]
+	path = components/miniz_idf
+	url = git@github.com:Rajssss/miniz_idf.git
+[submodule "components/esp_littlefs"]
+	path = components/esp_littlefs
+	url = git@github.com:joltwallet/esp_littlefs.git
